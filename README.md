@@ -1,29 +1,37 @@
-**Calculadora de Média de Notas**
+<!-- Título do Projeto -->
+<h1 align="center">Calculadora de Média de Notas 📊</h1>
 
-  Este é um projeto simples em JavaScript que calcula a média das notas de um aluno e determina 
-  se ele foi aprovado ou reprovado com base nessa média.
+<!-- Descrição do Projeto -->
+<p align="center">Um projeto simples em JavaScript que calcula a média das notas de um aluno e determina se ele foi aprovado ou reprovado com base nessa média.</p>
 
-*Funcionalidades*
+<!-- Imagem ou Gif -->
+![Page Screenshot](https://photos.app.goo.gl/Zeam5hQJ91zRjXh58)
+
+<!-- Funcionalidades -->
+## Funcionalidades 🚀
 
 - Define as notas do aluno em um array.
 - Calcula a média das notas.
 - Verifica se o aluno foi aprovado ou reprovado com base na média.
-- Descrição do Código
 
-*O código realiza as seguintes etapas:*
+<!-- Como Usar -->
+## Como Usar 📝
 
-- Define as notas do aluno em um array.
-- Calcula a média das notas.
-- Imprime a média do aluno.
-- Verifica se a média é maior ou igual a 7.
-- Imprime se o aluno foi aprovado ou reprovado com base na média.
+1. Clone o repositório.
+2. Abra o arquivo `9-colocandoEmPratica.js` em seu navegador.
+3. Insira as notas do aluno e veja o resultado!
 
-*Uso*
+<!-- Observações -->
+## Observações ℹ️
 
-  Para executar o código, basta copiá-lo para um arquivo JavaScript e 
-  executá-lo em um ambiente Node.js ou em um navegador com o console aberto.
+- Este é um projeto simples para fins educacionais, destinado a demonstrar conceitos básicos de programação em JavaScript, como arrays, loops, condicionais e operações matemáticas.
+- Sinta-se à vontade para modificar e expandir este projeto conforme necessário para atender às suas necessidades ou praticar novos conceitos.
 
-*Observações*
+<!-- Licença -->
+## Licença 📜
 
-  Este é um projeto simples para fins educacionais, destinado a demonstrar conceitos 
-  básicos de programação em JavaScript, como arrays, loops, condicionais e operações matemáticas.
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
+---
+
+Feito com ❤️ por [Tais Figueiredo](https://github.com/TaisBF)
