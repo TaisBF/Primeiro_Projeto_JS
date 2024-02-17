@@ -5,7 +5,7 @@
 <p align="center">Um projeto simples em JavaScript que calcula a média das notas de um aluno e determina se ele foi aprovado ou reprovado com base nessa média.</p>
 
 <!-- Imagem ou Gif -->
-<p align="center">![App Screenshot](https://i.ibb.co/WFqYtRR/Colocando-em-pratica.png)
+<img align="center">![App Screenshot](https://i.ibb.co/WFqYtRR/Colocando-em-pratica.png)
 
 <!-- Funcionalidades -->
 ## Funcionalidades 🚀
